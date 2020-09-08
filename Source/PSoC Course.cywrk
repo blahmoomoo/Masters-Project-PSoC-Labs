@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspc" version="5" xml_contents_version="2" name="PSoC Course" persistent="" platform="NOT_USED">
+<current_project name=".\FinalProject.cydsn\FinalProject.cyprj" />
+<wrkspc_folders />
+<files />
+<projects>
+<name_val_pair name="Lab0" v=".\Lab0.cydsn\Lab0.cyprj" />
+<name_val_pair name="Lab1" v=".\Lab1.cydsn\Lab1.cyprj" />
+<name_val_pair name="Lab2" v=".\Lab2.cydsn\Lab2.cyprj" />
+<name_val_pair name="Lab3" v=".\Lab3.cydsn\Lab3.cyprj" />
+<name_val_pair name="Lab6" v=".\Lab6.cydsn\Lab6.cyprj" />
+<name_val_pair name="Lab4" v=".\Lab4.cydsn\Lab4.cyprj" />
+<name_val_pair name="Lab7" v=".\Lab7.cydsn\Lab7.cyprj" />
+<name_val_pair name="Lab5" v=".\Lab5.cydsn\Lab5.cyprj" />
+<name_val_pair name="FinalProject" v=".\FinalProject.cydsn\FinalProject.cyprj" />
+</projects>
+<workspace_id v="3c6e5583-e5c6-4e9d-8813-363d00a072bd" />
+<WriteAppVersionLastSavedWith v="3.0.0.1539" />
+<WriteAppMarketingVersionLastSavedWith v="3.0 Component Pack 7" />
+<CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjDependencyList" version="3">
+<wrkspc_dependencies />
+</CyGuid_dcbd9771-0334-43dc-9cc3-fe99dc3c5316>
+<CyGuid_63b68103-67f5-4406-8da6-5c8625765b82 type_name="CyDesigner.Common.ProjMgmt.Model.CyIgnoredSystemDepsList" version="1">
+<wrkspc_dependencies />
+</CyGuid_63b68103-67f5-4406-8da6-5c8625765b82>
+</CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd>
+</CyXmlSerializer>
