@@ -28,6 +28,8 @@ There aren't many courses at RIT that combine both Computer Engineering and Comp
   * This includes the YM2149 Programmable Sound Generator emulator, which is the example final project
   * [Example of the YM2149 emulator in action](https://www.youtube.com/watch?v=B2MvwRQ0q_I)
 
+Note: the e-mail address found in these documents is defunct.
+
 # Disclaimer
 This project was completed in 2014. As of the time I post this in 2020 (to the few who were asking for this, sorry for the wait), I have not tested to see if the source code is still functional in the current version of Cypress PSoC Creator. But everything relevant in the source code should be shown in the lab instructor's guides and final project example documents.
 
