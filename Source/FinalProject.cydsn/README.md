@@ -4,7 +4,7 @@ This is a project that emulates the YM2149 Programmable Sound Generator in the h
 
 The [CY8CKIT-050 development kit](https://www.cypress.com/documentation/development-kitsboards/cy8ckit-050-psoc-5lp-development-kit) was specifically used. I'd guess it should be possible to adapt this project to the cheaper [CY8CKIT-059](https://www.cypress.com/documentation/development-kitsboards/cy8ckit-059-psoc-5lp-prototyping-kit-onboard-programmer-and), but I don't own one.
 
-Most doucmentation for this project can be found in [this folder](../Course/Final) (specifically the final project example).
+Most doucmentation for this project can be found in [this folder](../../Course/Final) (specifically the final project example).
 
 [Example of this emulator in action](https://www.youtube.com/watch?v=B2MvwRQ0q_I)
 
